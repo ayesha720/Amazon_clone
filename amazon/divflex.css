@@ -1,0 +1,34 @@
+.box-main{
+    
+    height:1000px;
+    border: 2px solid red;
+    margin: 10px 10px;
+    display:flex;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: aqua;
+}
+.part-one{
+    
+    height:900px;
+    border: 2px solid rgb(73, 10, 210);
+    background-color:red;
+    
+
+}
+.part-two{
+    height:900px;
+    border: 2px solid rgb(210, 10, 10);
+    background-color:rgb(73, 10, 210) ;
+  
+
+
+}
+.part-three{
+    height:900px;
+    border: 2px solid rgb(164, 248, 9);
+    background-color:rgb(164, 248, 9) ;
+    
+
+
+}
